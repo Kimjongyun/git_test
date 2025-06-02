@@ -1,3 +1,4 @@
 Hello Git
 Hello World
 터미널 꿀잼
+하다보면 재밌어요
